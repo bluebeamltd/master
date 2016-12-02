@@ -247,7 +247,7 @@
             ".mbr-section-title": {
               "font-family": "'Droid Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
-              "font-size": "30px"
+              "font-size": "18px"
             }
           },
           "_tags": [
