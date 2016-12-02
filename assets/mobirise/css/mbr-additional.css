@@ -539,11 +539,11 @@ h6,
   font-size: 20px;
 }
 #menu-1 .navbar-toggler {
-  color: #ffffff;
+  color: #000000;
 }
 #menu-1 .link,
 #menu-1 .dropdown-item {
-  color: #ffffff;
+  color: #000000;
   font-family: 'Droid Serif', serif;
 }
 #menu-1 .link {
@@ -561,22 +561,22 @@ h6,
 }
 #menu-1 .link[aria-expanded="true"],
 #menu-1 .dropdown-menu {
-  background: #22282e;
+  background: #e6e6e6;
 }
 #menu-1 .nav-dropdown-sm .link:focus,
 #menu-1 .nav-dropdown-sm .link:hover,
 #menu-1 .nav-dropdown-sm .dropdown-item:focus,
 #menu-1 .nav-dropdown-sm .dropdown-item:hover {
-  background: #313942!important;
+  background: #f7f7f7!important;
 }
 #menu-1 .navbar,
 #menu-1 .nav-dropdown-sm,
 #menu-1 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-1 .nav-dropdown-sm .dropdown-menu {
-  background: #38414b;
+  background: #ffffff;
 }
 #menu-1 .bg-color.transparent .link {
-  color: #ffffff;
+  color: #000000;
   transition: none;
 }
 #menu-1 .bg-color.transparent.opened .link {
@@ -598,7 +598,7 @@ h6,
 }
 #menu-1 .close-icon::before,
 #menu-1 .close-icon::after {
-  background-color: #ffffff;
+  background-color: #000000;
 }
 #footer1-2 P {
   color: #ffffff;
@@ -783,8 +783,10 @@ h6,
 #header2-i P {
   text-align: left;
   font-family: 'Open Sans', sans-serif;
+  color: #000000;
 }
 #header2-i H3 {
   font-family: 'Open Sans', sans-serif;
   font-size: 36px;
+  color: #000000;
 }
