@@ -1,5 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+
 
 
 
@@ -424,7 +426,7 @@ h6,
 }
 #menu-0 .navbar-caption {
   color: #ffffff;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 20px;
 }
 #menu-0 .navbar-toggler {
@@ -433,7 +435,7 @@ h6,
 #menu-0 .link,
 #menu-0 .dropdown-item {
   color: #ffffff;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 #menu-0 .link {
   font-size: 1.3rem;
@@ -493,7 +495,7 @@ h6,
   text-align: right;
 }
 #header1-1 .mbr-section-title P {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   text-align: right;
 }
 #header1-1 .mbr-section-lead {
@@ -501,13 +503,17 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #header1-1 .mbr-section-lead SPAN {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   text-align: right;
 }
 #header1-1 .btn {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 17px;
 }
+#image1-0 DIV {
+  font-family: 'Open Sans', sans-serif;
+}
+
 
 
 
@@ -517,7 +523,7 @@ h6,
 }
 #menu-1 .navbar-caption {
   color: #ffffff;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 20px;
 }
 #menu-1 .navbar-toggler {
@@ -526,7 +532,7 @@ h6,
 #menu-1 .link,
 #menu-1 .dropdown-item {
   color: #ffffff;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 #menu-1 .link {
   font-size: 1.3rem;
@@ -584,10 +590,11 @@ h6,
 }
 #header2-6 H3 {
   font-size: 30px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 #header2-6 P {
   text-align: left;
+  font-family: 'Open Sans', sans-serif;
 }
 #header2-6 .btn {
   font-family: 'Lato', sans-serif;
@@ -595,12 +602,15 @@ h6,
 }
 
 
+
+
+
 #menu-9 .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-9 .navbar-caption {
   color: #ffffff;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 20px;
 }
 #menu-9 .navbar-toggler {
@@ -609,7 +619,7 @@ h6,
 #menu-9 .link,
 #menu-9 .dropdown-item {
   color: #ffffff;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 #menu-9 .link {
   font-size: 1.3rem;
@@ -672,7 +682,16 @@ h6,
 #header3-c SMALL {
   text-align: right;
   color: #000000;
+  font-family: 'Open Sans', sans-serif;
 }
+#header3-c H3 {
+  font-family: 'Open Sans', sans-serif;
+}
+#header3-c B {
+  font-family: 'Open Sans', sans-serif;
+}
+
+
 
 
 #menu-d .hide-buttons .nav-btn {
@@ -680,7 +699,7 @@ h6,
 }
 #menu-d .navbar-caption {
   color: #ffffff;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 20px;
 }
 #menu-d .navbar-toggler {
@@ -689,7 +708,7 @@ h6,
 #menu-d .link,
 #menu-d .dropdown-item {
   color: #ffffff;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 #menu-d .link {
   font-size: 1.3rem;
@@ -747,4 +766,9 @@ h6,
 }
 #header2-i P {
   text-align: left;
+  font-family: 'Open Sans', sans-serif;
+}
+#header2-i H3 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 36px;
 }
