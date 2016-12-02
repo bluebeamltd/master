@@ -12,9 +12,9 @@
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
-        "titleFont": "Lato",
-        "subtitleFont": "Lato",
-        "textFont": "Lato",
+        "titleFont": "Droid Sans",
+        "subtitleFont": "Droid Sans",
+        "textFont": "Droid Sans",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false
