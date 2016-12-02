@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 20,
+    "uniqCompNum": 24,
     "versionPublish": "3.9.2",
     "publishType": "github",
     "favicon": "@PROJECT_PATH@/assets/images/normanconnors-closeup-128x85-56.jpg",
@@ -206,7 +206,13 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<p><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\">All Rights Reserved * 2016 Durant Mangement Corporation * </a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a></p>"
+          "text": "<p>All Rights Reserved * 2016 Durant Mangement Corporation&nbsp;<a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a></p>",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "text-align": "right"
+            }
+          }
         },
         {
           "_tags": [
@@ -397,7 +403,13 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<p><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\">All Rights Reserved * 2016 Durant Mangement Corporation * </a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a></p>"
+          "text": "<p>All Rights Reserved * 2016 Durant Mangement Corporation&nbsp;<a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a></p>",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "text-align": "right"
+            }
+          }
         },
         {
           "_tags": [
@@ -590,7 +602,13 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<p><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\">All Rights Reserved * 2016 Durant Mangement Corporation * </a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a></p>"
+          "text": "<p>All Rights Reserved * 2016 Durant Mangement Corporation&nbsp;<a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a></p>",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "text-align": "right"
+            }
+          }
         },
         {
           "_inherit": "gallery1",
@@ -892,7 +910,13 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<p><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\">All Rights Reserved * 2016 Durant Mangement Corporation * </a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a></p>"
+          "text": "<p>All Rights Reserved * 2016 Durant Mangement Corporation&nbsp;<a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a></p>",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "text-align": "right"
+            }
+          }
         },
         {
           "_tags": [

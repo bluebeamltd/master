@@ -513,6 +513,10 @@ h6,
   font-family: 'Droid Sans', sans-serif;
   font-size: 17px;
 }
+#footer1-2 P {
+  color: #ffffff;
+  text-align: right;
+}
 #image1-0 DIV {
   font-family: 'Droid Serif', serif;
 }
@@ -598,6 +602,10 @@ h6,
 #menu-1 .close-icon::before,
 #menu-1 .close-icon::after {
   background-color: #ffffff;
+}
+#footer1-2 P {
+  color: #ffffff;
+  text-align: right;
 }
 #header2-6 H3 {
   font-size: 30px;
@@ -685,6 +693,10 @@ h6,
 #menu-9 .close-icon::before,
 #menu-9 .close-icon::after {
   background-color: #ffffff;
+}
+#footer1-a P {
+  color: #ffffff;
+  text-align: right;
 }
 #header3-c .mbr-section-title,
 #header3-c .mbr-section-subtitle {
@@ -774,6 +786,10 @@ h6,
 #menu-d .close-icon::before,
 #menu-d .close-icon::after {
   background-color: #ffffff;
+}
+#footer1-e P {
+  color: #ffffff;
+  text-align: right;
 }
 #header2-i P {
   text-align: left;
