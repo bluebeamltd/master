@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
@@ -426,7 +427,7 @@ h6,
 }
 #menu-0 .navbar-caption {
   color: #ffffff;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Droid Serif', serif;
   font-size: 20px;
 }
 #menu-0 .navbar-toggler {
@@ -435,7 +436,7 @@ h6,
 #menu-0 .link,
 #menu-0 .dropdown-item {
   color: #ffffff;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Droid Serif', serif;
 }
 #menu-0 .link {
   font-size: 1.3rem;
@@ -511,7 +512,7 @@ h6,
   font-size: 17px;
 }
 #image1-0 DIV {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Droid Serif', serif;
 }
 
 
@@ -523,7 +524,7 @@ h6,
 }
 #menu-1 .navbar-caption {
   color: #ffffff;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Droid Serif', serif;
   font-size: 20px;
 }
 #menu-1 .navbar-toggler {
@@ -532,7 +533,7 @@ h6,
 #menu-1 .link,
 #menu-1 .dropdown-item {
   color: #ffffff;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Droid Serif', serif;
 }
 #menu-1 .link {
   font-size: 1.3rem;
@@ -610,7 +611,7 @@ h6,
 }
 #menu-9 .navbar-caption {
   color: #ffffff;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Droid Serif', serif;
   font-size: 20px;
 }
 #menu-9 .navbar-toggler {
@@ -619,7 +620,7 @@ h6,
 #menu-9 .link,
 #menu-9 .dropdown-item {
   color: #ffffff;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Droid Serif', serif;
 }
 #menu-9 .link {
   font-size: 1.3rem;
@@ -699,7 +700,7 @@ h6,
 }
 #menu-d .navbar-caption {
   color: #ffffff;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Droid Serif', serif;
   font-size: 20px;
 }
 #menu-d .navbar-toggler {
@@ -708,7 +709,7 @@ h6,
 #menu-d .link,
 #menu-d .dropdown-item {
   color: #ffffff;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Droid Serif', serif;
 }
 #menu-d .link {
   font-size: 1.3rem;
