@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Booking.html",
+    "currentPage": "index.html",
     "name": "Norman Connors",
     "theme": {
       "name": "mobirise3",
@@ -171,7 +171,7 @@
           },
           "_anchor": "header1-1",
           "_params": {
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": true,
             "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/normanconnors-closeup-2000x1335-42.jpg",
@@ -182,7 +182,7 @@
             },
             "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "1",
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
@@ -201,7 +201,8 @@
           "_styles": {
             "DIV": {
               "font-family": "'Droid Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
+              "color": "#ffffff"
             }
           },
           "_anchor": "image1-0",
@@ -369,29 +370,6 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">Biography</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"discography.html\">Discography</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Booking.html\">Booking&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
-          "_name": "footer1",
-          "_anchor": "footer1-2",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2969b0",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "<p>All Rights Reserved * 2016 Durant Mangement Corporation&nbsp;<a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a></p>",
-          "_styles": {
-            "P": {
-              "color": "#ffffff",
-              "text-align": "right"
-            }
-          }
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -495,13 +473,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -561,7 +539,8 @@
               "link": "mailto:nmcalister@bluebeamltd.com",
               "size": "",
               "newWindow": false,
-              "active": true
+              "active": true,
+              "color": "#000000"
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mailto:nmcalister@bluebeamltd.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Contact For Bookings and Interviews&nbsp;</a>",
@@ -780,13 +759,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -845,8 +824,9 @@
               "family": "socicon",
               "link": "mailto:nmcalister@bluebeamltd.com",
               "size": "",
-              "newWindow": false,
-              "active": true
+              "newWindow": true,
+              "active": true,
+              "color": "#000000"
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mailto:nmcalister@bluebeamltd.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Contact For Bookings and Interviews&nbsp;</a>",
@@ -867,7 +847,7 @@
             "H3": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "36px",
+              "font-size": "32px",
               "color": "#000000"
             }
           },

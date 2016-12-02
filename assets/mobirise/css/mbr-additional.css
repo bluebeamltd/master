@@ -515,6 +515,7 @@ h6,
 }
 #image1-0 DIV {
   font-family: 'Droid Serif', serif;
+  color: #ffffff;
 }
 #social-buttons3-j .mbr-section-title,
 #social-buttons3-j .btn-social {
@@ -600,10 +601,6 @@ h6,
 #menu-1 .close-icon::after {
   background-color: #000000;
 }
-#footer1-2 P {
-  color: #ffffff;
-  text-align: right;
-}
 #header2-6 H3 {
   font-size: 30px;
   font-family: 'Open Sans', sans-serif;
@@ -652,19 +649,19 @@ h6,
 }
 #menu-9 .link[aria-expanded="true"],
 #menu-9 .dropdown-menu {
-  background: #e6e6e6;
+  background: #000000;
 }
 #menu-9 .nav-dropdown-sm .link:focus,
 #menu-9 .nav-dropdown-sm .link:hover,
 #menu-9 .nav-dropdown-sm .dropdown-item:focus,
 #menu-9 .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
+  background: #000000!important;
 }
 #menu-9 .navbar,
 #menu-9 .nav-dropdown-sm,
 #menu-9 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-9 .nav-dropdown-sm .dropdown-menu {
-  background: #ffffff;
+  background: #000000;
 }
 #menu-9 .bg-color.transparent .link {
   color: #000000;
@@ -741,19 +738,19 @@ h6,
 }
 #menu-d .link[aria-expanded="true"],
 #menu-d .dropdown-menu {
-  background: #e6e6e6;
+  background: #000000;
 }
 #menu-d .nav-dropdown-sm .link:focus,
 #menu-d .nav-dropdown-sm .link:hover,
 #menu-d .nav-dropdown-sm .dropdown-item:focus,
 #menu-d .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
+  background: #000000!important;
 }
 #menu-d .navbar,
 #menu-d .nav-dropdown-sm,
 #menu-d .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-d .nav-dropdown-sm .dropdown-menu {
-  background: #ffffff;
+  background: #000000;
 }
 #menu-d .bg-color.transparent .link {
   color: #000000;
@@ -787,6 +784,6 @@ h6,
 }
 #header2-i H3 {
   font-family: 'Open Sans', sans-serif;
-  font-size: 36px;
+  font-size: 32px;
   color: #000000;
 }
