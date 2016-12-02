@@ -162,8 +162,8 @@
               "text-align": "right"
             },
             ".btn": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
               "font-size": "17px"
             }
           },
@@ -213,6 +213,12 @@
             "Theme"
           ],
           "_name": "image1",
+          "_styles": {
+            "DIV": {
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
+            }
+          },
           "_anchor": "image1-0",
           "media": {
             "image": {
@@ -230,13 +236,7 @@
           "_params": {
             "showText": true
           },
-          "text": "<br>Norman Connors performing 'Butterfly'&nbsp;",
-          "_styles": {
-            "DIV": {
-              "font-family": "'Droid Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
-            }
-          }
+          "text": "<br>Norman Connors performing 'Butterfly'&nbsp;"
         }
       ]
     },
@@ -863,6 +863,18 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "H3": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "36px"
+            }
+          },
           "_anchor": "header2-i",
           "_params": {
             "parallax": true,
@@ -903,19 +915,7 @@
           },
           "title": "Booking Information",
           "text": "As a 40 year &nbsp;veteran in the music business. Norman Connors is a consumate professional and is easy to work with.<br><br>For bookings all we need to know is preferred dates, location(s), Venue size, budget, and what you type of show you are looking for Norman Connors to bring with him.<br><br>We have various packages to make booking Norman Connor's as easy as 1-2-3.<br><br>Package A<br><br>Norman Connors and the Starship Band&nbsp;<br><br>Package B<br><br>Norman Connors featuring Special Guest such as&nbsp;<br>Bobby Lyle*, Howard Hewitt, Michael Hederson, Jean Carne<br><br>Package C<br><br>Norman Connors featuring a Grammy Nominated or Winning Artist.&nbsp;<br><br>Rider Information:<br>Travel, Ground, and Accommodations for up to Eight (8)<br>Hot meal to serve 10 (including entree, vegetables, fruit, and beverages)<br><br>Technical Rider:<br>PA system (Must be sufficient for concert room)<br>Drums<br>Mics&nbsp;<br><br><br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_styles": {
-            "P": {
-              "text-align": "left",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            },
-            "H3": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "36px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         }
       ]
     }
