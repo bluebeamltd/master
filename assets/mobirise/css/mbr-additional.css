@@ -513,10 +513,6 @@ h6,
   font-family: 'Droid Sans', sans-serif;
   font-size: 17px;
 }
-#footer1-2 P {
-  color: #ffffff;
-  text-align: right;
-}
 #image1-0 DIV {
   font-family: 'Droid Serif', serif;
 }
@@ -564,19 +560,19 @@ h6,
 }
 #menu-1 .link[aria-expanded="true"],
 #menu-1 .dropdown-menu {
-  background: #231818;
+  background: #1f5087;
 }
 #menu-1 .nav-dropdown-sm .link:focus,
 #menu-1 .nav-dropdown-sm .link:hover,
 #menu-1 .nav-dropdown-sm .dropdown-item:focus,
 #menu-1 .nav-dropdown-sm .dropdown-item:hover {
-  background: #382727!important;
+  background: #2662a4!important;
 }
 #menu-1 .navbar,
 #menu-1 .nav-dropdown-sm,
 #menu-1 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-1 .nav-dropdown-sm .dropdown-menu {
-  background: #412d2d;
+  background: #2969b0;
 }
 #menu-1 .bg-color.transparent .link {
   color: #ffffff;
