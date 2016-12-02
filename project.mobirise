@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "biography.html",
     "name": "Norman Connors",
     "theme": {
       "name": "mobirise3",
@@ -294,13 +294,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1f5087"
+              "background": "#22282e"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#2662a4!important"
+              "background": "#313942!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#2969b0"
+              "background": "#38414b"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
