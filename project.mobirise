@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "discography.html",
+    "currentPage": "index.html",
     "name": "Norman Connors",
     "theme": {
       "name": "mobirise3",
@@ -221,9 +221,10 @@
             },
             "video": {
               "src": "https://youtu.be/XUquugGi4ic",
-              "autoplay": "on",
+              "autoplay": false,
               "loop": false,
-              "active": true
+              "active": true,
+              "aspectratio": "4:3"
             }
           },
           "_params": {
