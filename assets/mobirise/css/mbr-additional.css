@@ -433,11 +433,11 @@ h6,
   font-size: 20px;
 }
 #menu-0 .navbar-toggler {
-  color: #ffffff;
+  color: #000000;
 }
 #menu-0 .link,
 #menu-0 .dropdown-item {
-  color: #ffffff;
+  color: #000000;
   font-family: 'Droid Serif', serif;
 }
 #menu-0 .link {
@@ -470,7 +470,7 @@ h6,
   background: #38414b;
 }
 #menu-0 .bg-color.transparent .link {
-  color: #ffffff;
+  color: #000000;
   transition: none;
 }
 #menu-0 .bg-color.transparent.opened .link {
@@ -492,7 +492,7 @@ h6,
 }
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
-  background-color: #ffffff;
+  background-color: #000000;
 }
 #header1-1 .mbr-section-title {
   text-align: right;
@@ -523,6 +523,7 @@ h6,
 #social-buttons3-j .mbr-section-title {
   font-family: 'Droid Sans', sans-serif;
   font-size: 18px;
+  color: #ffffff;
 }
 
 
