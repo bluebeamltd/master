@@ -196,7 +196,7 @@
           "_anchor": "footer1-2",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -206,7 +206,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<p><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\">2016 Durant Mangement Corporation</a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a></p>"
+          "text": "<p><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\">                             2016 Durant Mangement Corporation</a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a></p>"
         },
         {
           "_tags": [
@@ -243,6 +243,11 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "font-size": "30px"
             }
           },
           "_tags": [
@@ -251,8 +256,8 @@
           "_name": "social-buttons3",
           "_anchor": "social-buttons3-j",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -267,7 +272,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "SHARE THIS PAGE!"
+          "text": "SHARE THIS PAGE"
         }
       ]
     },
@@ -382,7 +387,7 @@
           "_anchor": "footer1-2",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -392,7 +397,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<p><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\">2016 Durant Mangement Corporation</a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a></p>"
+          "text": "<p><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\">                             2016 Durant Mangement Corporation</a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a></p>"
         },
         {
           "_tags": [
@@ -575,7 +580,7 @@
           "_anchor": "footer1-a",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -585,7 +590,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<p><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\">2016 Durant Mangement Corporation</a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a></p>"
+          "text": "<p><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\">                             2016 Durant Mangement Corporation</a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a></p>"
         },
         {
           "_inherit": "gallery1",
@@ -877,7 +882,7 @@
           "_anchor": "footer1-e",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -887,7 +892,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<p><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\">2016 Durant Mangement Corporation</a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a></p>"
+          "text": "<p><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\">                             2016 Durant Mangement Corporation</a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a></p>"
         },
         {
           "_tags": [
