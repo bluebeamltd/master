@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Booking.html",
+    "currentPage": "index.html",
     "name": "Norman Connors",
     "theme": {
       "name": "mobirise3",
@@ -16,12 +16,12 @@
         "subtitleFont": "Droid Sans",
         "textFont": "Droid Sans",
         "isRoundedButtons": false,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 27,
+    "uniqCompNum": 28,
     "versionPublish": "3.9.2",
     "publishType": "github",
     "favicon": "@PROJECT_PATH@/assets/images/normanconnors-closeup-128x85-55.jpg",
@@ -189,7 +189,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Norman Connors</p>",
+          "title": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"https://en.wikipedia.org/wiki/Norman_Connors\" target=\"_blank\">Norman Connors</a></p>",
           "text": "<span style=\"font-style: normal;\"><b>\u001bJazz Legend<br>Producer<br>Composer<br>Musician<br>Celebrating 40 Years of Excellence<br></b></span><br>",
           "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"mailto:nmcalister@bluebeamltd.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NORMAN CONNORS TODAY</a>"
         },
@@ -260,6 +260,26 @@
             "odnoklassniki": false
           },
           "text": "SHARE THIS PAGE"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-r",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<p><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\">   2016 Durant Mangement Corporation &nbsp; All Rights Reserved</a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a></p>"
         }
       ]
     },
