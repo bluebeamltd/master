@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Booking.html",
+    "currentPage": "discography.html",
     "name": "Norman Connors",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 28,
+    "uniqCompNum": 30,
     "versionPublish": "3.9.2",
     "publishType": "github",
     "favicon": "@PROJECT_PATH@/assets/images/normanconnors-closeup-128x85-55.jpg",
@@ -741,10 +741,15 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             "H3": {
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "font-size": "16px"
+            },
+            "B": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
-            "B": {
+            "SPAN": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
@@ -760,7 +765,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Discography",
+          "title": "Discography<br><span style=\"font-weight: normal;\">With over 40 years of great music and an undeniable smooth appeal that only Norman Connors delivers while working with some of the best voices in music history. Norman Connors has inspired generations and countless fans to love, live, and enjoy music like no one else.</span>",
           "meta": "<b>(As Leader)</b><br>Dance of Magic (Cobblestone, 1973)<br>Dark of Light (Buddah, 1973)<br>Love from the Sun (Buddah, 1974)<br>Slewfoot (Buddah, 1974)<br>Live at Nemu Jazz Inn - 1 (Nippon Columbia/Cobblestone, 1975)<br>Saturday Night Special (Buddah, 1975)<br>You Are My Starship (Buddah, 1976)<br>Romantic Journey (Buddah, 1977)<br>This Is Your Life (Buddah/Arista, 1978)<br>Invitation (Buddah/Arista, 1979)<br>Take it to the Limit (Arista, 1980)<br>Mr.C (Arista, 1981)<br>Passion (Capitol Records, 1988)<br>Remember Who You Are (MoJazz, 1993)<br>Easy Living (Motown, 1996)<br>Eternity (Starship, 2000)<br>Star Power (Shanachie, 2009)<br><br><b>As sideman</b><br><b>With Sam Rivers</b><br><br>Streams (Impulse!, 1973)<br>Hues (Impulse!, 1973)<br><br><b>With Pharoah Sanders<br></b><br>Live at the East (Impulse!, 1972)<br>Village of the Pharoahs (Impulse!, 1973)<br>Love in Us All (Impulse!, 1972–73)<br>Love Will Find a Way (Arista, 1978)<br>"
         },
         {
@@ -782,6 +787,19 @@
             "overlayColor": "#444444"
           },
           "text": "<p><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\">   2016 Durant Mangement Corporation &nbsp; All Rights Reserved</a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-t",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><br></p><p><br></p><p>Norman Connors music has been sampled by a whos who in the industry and has featured by some of the biggest artist of the past 20 years.</p><p><br></p><p>Artist Featured on his music:</p><p>&nbsp; &nbsp;</p><p>R Kelly,  LL Cool J, Rick Ross, Wyclef Jean, Big Sean, Mobb Deep,, Terry Ellis, Mos Def, Das Efx, Mac Miller, Nas, 9th Wonder, Juelz Santana, to name a few. If&nbsp;</p><p><br></p>"
         }
       ]
     },
