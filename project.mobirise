@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Booking.html",
     "name": "Norman Connors",
     "theme": {
       "name": "mobirise3",
@@ -16,7 +16,7 @@
         "subtitleFont": "Droid Sans",
         "textFont": "Droid Sans",
         "isRoundedButtons": false,
-        "isAnimatedOnScroll": false,
+        "isAnimatedOnScroll": true,
         "isScrollToTopButton": false
       }
     },
@@ -300,10 +300,10 @@
               "font-size": "20px"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
               "font-family": "'Droid Serif', serif"
             },
@@ -317,16 +317,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -346,7 +346,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#000000"
             }
           },
           "_name": "menu",
@@ -456,6 +456,26 @@
           "title": "About &nbsp;Norman Connors",
           "text": "Norman Connors (born March 1, 1947) is an American jazz drummer, composer, arranger, and producer who has led some influential jazz and R&amp;B groups. He also achieved several big R&amp;B hits of the day, especially with love ballads. He is possibly best known for the 1976 hit, \"You Are My Starship\" on which lead vocals were sung by Michael Henderson.<br><br>Connors lived in the same Philadelphia neighbourhood as veteran comedian Bill Cosby (just 4 doors away) and had an interest in jazz from a very early age when he began to play drums. Whilst at elementary school, Norman was exposed to jazz extensively and became heavily influenced by the drummer Lex Humphries and the younger brother of bassist and Jazz-Messenger player, Spanky De Brest. He first met his idol, Miles Davis, aged just 13 in 1960.<br><br>He once sat in for Elvin Jones at a John Coltrane performance he attended while in middle school. Connors studied music at Temple University and Juilliard. His first recording was on Archie Shepp's 1967 release, Magic of JuJu. He played with Pharoah Sanders for the next few years until signing in 1972 with jazz label, Cobblestone Records, a division of Buddah Records, and releasing his first record as a bandleader.<br><br>Connors began to focus more on R&amp;B material in the mid-1970s after signing with Buddah Records and then becoming the label's A&amp;R manager. He scored several US hits with songs featuring guest vocalists such as Michael Henderson, Jean Carn, and Phyllis Hyman. The most successful of these was \"You Are My Starship\" (#4 R&amp;B, #27 Pop), featuring Henderson in 1976, while \"Valentine Love\", his first chart success, made #10 R&amp;B in 1975, with vocals from Henderson and Jean Carne. Dee Dee Bridgewater also performed with him on the jazz album \"Love from the Sun\". He has also produced recordings for various artists, including collaborators like Jean Carn, Phyllis Hyman, Al Johnson, Norman Brown, and saxophonist Marion Meadows.<br><br>Connors switched to the Arista label when Buddah was bought out in 1978 and achieved a crossover to the disco scene in 1980 when he had the hit 'Take it to the Limit', which was released on 12\" single. The B side, \"Black Cow\" (an instrumental) was written by Steely Dan's Walter Becker and Donald Fagen.<br><br>In 1988 he had a hit on Capitol Records with \"I Am Your Melody\" (with B-side \"Samba for Maria\") from his LP Passion which he produced featuring Spencer Harrison.<br><br>His most recent work, Star Power, features smooth jazz and urban crossover music.<br><br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://www.iheart.com/artist/norman-connors-17046/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Norman Connors Music</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-r",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<p><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\">   2016 Durant Mangement Corporation &nbsp; All Rights Reserved</a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a></p>"
         }
       ]
     },
@@ -742,6 +762,26 @@
           },
           "title": "Discography",
           "meta": "<b>(As Leader)</b><br>Dance of Magic (Cobblestone, 1973)<br>Dark of Light (Buddah, 1973)<br>Love from the Sun (Buddah, 1974)<br>Slewfoot (Buddah, 1974)<br>Live at Nemu Jazz Inn - 1 (Nippon Columbia/Cobblestone, 1975)<br>Saturday Night Special (Buddah, 1975)<br>You Are My Starship (Buddah, 1976)<br>Romantic Journey (Buddah, 1977)<br>This Is Your Life (Buddah/Arista, 1978)<br>Invitation (Buddah/Arista, 1979)<br>Take it to the Limit (Arista, 1980)<br>Mr.C (Arista, 1981)<br>Passion (Capitol Records, 1988)<br>Remember Who You Are (MoJazz, 1993)<br>Easy Living (Motown, 1996)<br>Eternity (Starship, 2000)<br>Star Power (Shanachie, 2009)<br><br><b>As sideman</b><br><b>With Sam Rivers</b><br><br>Streams (Impulse!, 1973)<br>Hues (Impulse!, 1973)<br><br><b>With Pharoah Sanders<br></b><br>Live at the East (Impulse!, 1972)<br>Village of the Pharoahs (Impulse!, 1973)<br>Love in Us All (Impulse!, 1972–73)<br>Love Will Find a Way (Arista, 1978)<br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-r",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<p><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\">   2016 Durant Mangement Corporation &nbsp; All Rights Reserved</a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a></p>"
         }
       ]
     },
@@ -912,6 +952,26 @@
           "title": "Booking Information",
           "text": "As a 40 year &nbsp;veteran in the music business. Norman Connors is a consumate professional and is easy to work with.<br><br>For bookings all we need to know is preferred dates, location(s), Venue size, budget, and what you type of show you are looking for Norman Connors to bring with him.<br><br>We have various packages to make booking Norman Connor's as easy as 1-2-3.<br><br>Package A<br><br>Norman Connors and the Starship Orchestra&nbsp;<br><br>Package B<br><br>Norman Connors featuring Special Guest such as&nbsp;<br>Bobby Lyle*, Howard Hewitt, Michael Hederson, Jean Carne<br><br>Package C<br><br>Norman Connors featuring a Grammy Nominated or Winning Artist.&nbsp;<br><br>Rider Information:<br>Travel, Ground, and Accommodations for up to Eight (8)<br>Hot meal to serve 10 (including entree, vegetables, fruit, and beverages)<br><br>Technical Rider:<br>PA system (Must be sufficient for concert room)<br>Drums<br>Mics&nbsp;<br><br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-r",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<p><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\">   2016 Durant Mangement Corporation &nbsp; All Rights Reserved</a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a></p>"
         }
       ]
     }
